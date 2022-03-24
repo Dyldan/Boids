@@ -6,4 +6,4 @@ Interactive Boids Simulation (Processing Java and JS versions)
   Boidsjs_x.zip is the JavaScript version.
   
 
-All rights belong to Dylan Moreno and Sam Paige.
+(Collaboration with colleage Sam Paige)
