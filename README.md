@@ -1,2 +1,2 @@
 # Boids
-Interactive Boids Simulation (Java and JS versions)
+Interactive Boids Simulation (Processing Java and JS versions)
